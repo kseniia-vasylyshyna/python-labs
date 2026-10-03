@@ -7,5 +7,3 @@ elif number == 3:
     print("Three")
 else:
     print("Unknown")
-        
-    
